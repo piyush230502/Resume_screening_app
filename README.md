@@ -1,14 +1,14 @@
-# Interview-Question-Creator-Project
+# Resume Screen Application
 
 ### How to run?
 
 1. Create an environment
 
 ```bash
-conda create -n interview python=3.10 -y
+conda create -n RSA python=3.10 -y
 
 
-conda activate interview
+conda activate RSA
 
 ```
 
